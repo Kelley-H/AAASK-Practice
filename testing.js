@@ -1,3 +1,3 @@
 function changeText() {
-    document.getElementById("message").innerText = "Button clicked!";
+    document.getElementById("message").innerText = "Welcome to Ada's Closet!";
 }
